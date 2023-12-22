@@ -1,3 +1,4 @@
 # 3D-renders
-Main branch are paid gigs.
-Projects branch are hobby projects.
+U main branchu su profesionalni poslovi.
+
+U zasebnom branchu su svi ostali hobbi-projekti.
