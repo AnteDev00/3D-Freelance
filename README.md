@@ -1,3 +1,15 @@
 # 3D-renders
-Main branch are paid gigs.
-Projects branch are hobby gigs.
+
+## This repo contains some of my hobby projects.
+
+### Minimalistic bathroom
+![image](https://github.com/AnteDev00/3D-renders/assets/151842550/18abba27-8d8e-4fae-8160-0b8615f3ad48)
+
+### Coffe shop
+![image](https://github.com/AnteDev00/3D-renders/assets/151842550/c061036c-6e6f-4a6d-8eb6-0454f3904080)
+
+### AK-47 - art
+![image](https://github.com/AnteDev00/3D-renders/assets/151842550/b5180b54-e5c8-4249-8111-e51137aca413)
+
+### Talon knife - art
+![image](https://github.com/AnteDev00/3D-renders/assets/151842550/4eba093f-b9c3-44fc-b6fb-60279e01ceed)
