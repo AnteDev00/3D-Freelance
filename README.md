@@ -1,4 +1,5 @@
-# 3D-renders
-U main branchu su profesionalni poslovi.
+# 3D Renders
 
-U zasebnom branchu su svi ostali hobbi-projekti.
+Professional projects are located in the main branch.
+
+All other hobby projects are in a separate branch.
